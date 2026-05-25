@@ -158,10 +158,6 @@ Parametric features:
 │   ├── Motor_Arm_Drawing.CATDrawing
 │   ├── Motor_Mount_Drawing.CATDrawing
 │   └── Assembly_Exploded_BOM.CATDrawing
-├── /Exports/
-│   ├── PNG_Views/
-│   └── STEP_Models/
-└── README.md
 ```
 
 *(File names and folders are suggestions – adapt them to your actual structure.)*
