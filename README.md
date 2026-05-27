@@ -160,7 +160,6 @@ Parametric features:
 │   └── Assembly_Exploded_BOM.CATDrawing
 ```
 
-*(File names and folders are suggestions – adapt them to your actual structure.)*
 
 ---
 
